@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s)](https://www.linkedin.com/in/mohit-sharma-956261209/)
 [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/mohitsharma__01/) -->
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)]((https://twitter.com/MOHITSH84171919)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/MOHITSH84171919)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohitsharma__01/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:prafullpandey2801@gmail.com)
