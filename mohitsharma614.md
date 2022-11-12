@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mohit-sharma-956261209/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:mohit199sharma199@gmail.com)
 <p><img src="https://github-profile-trophy.vercel.app/?username=mohitsharma614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Mohit" /></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=prafullpandey614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Prafull" /></p>
+
 <hr>
 
 ### 📊 Github Stats
