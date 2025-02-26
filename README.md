@@ -23,7 +23,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <h2>⚡️ Where to find me</h2>
 
@@ -34,6 +33,7 @@
 <!-- <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mohit_Sharma" height="30" width="40" /></a> -->
   
 </p>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsharma614&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsharma614" /> </p>
 <!-- <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohit-sharma-956261209/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100048841418703" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
