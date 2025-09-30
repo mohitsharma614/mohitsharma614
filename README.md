@@ -1,7 +1,47 @@
-<h1>Hi 👋, I'm Mohit Sharma</h1>
-<p>A passionate Data analyst from India</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# About_Me
+All about me
+
+### Hi there, I'm <a href="https://skst.in" target="_blank">Mohit Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sharma-956261209/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mohitsharma_32/)
+<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://skillcourse.in/)-->
+
+
+
+
+### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
+
+Meet me, Mohit Sharma, a motivated individual pursuing an MBA in HR Management with a strong foundation from my Bachelor of Computer Science. I possess technical skills in Python, PostgreSQL, Django , and HR tools like BambooHR and Tally ERP and I am an NCC ’C’ Certificate Holder.
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 Proficient in HR application software and tools;
+- 🚀 I’m learning A.I Magics;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mohit2605l@gmail.com
+
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+
+📈 **My Software Skills:**
+
+<!-- <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishdhawale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishdhawale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsharma614&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsharma614" /> </p> -->
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -20,18 +60,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <br>
-<br>
-<br>
 
-<h2>⚡️ Where to find me</h2>
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<a href="https://www.linkedin.com/in/mohit-sharma-956261209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit_Sharma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohitsharma__01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit_Sharma" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mohit_Sharma" height="30" width="40" /></a> -->
-  
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsharma614&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsharma614" /> </p>
 <!-- <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohit-sharma-956261209/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100048841418703" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
